@@ -31,7 +31,7 @@ This project automates the **containerization**, **infrastructure provisioning**
 
 ---
 ## Business Outcomes
-Reduced manual provisioning effort by over 70%
-Accelerated service rollouts and environment setup
-Improved deployment consistency and repeatability
-Ensured secure and audited infrastructure practices
+- Reduced manual provisioning effort by over 70%
+- Accelerated service rollouts and environment setup
+- Improved deployment consistency and repeatability
+- Ensured secure and audited infrastructure practices
