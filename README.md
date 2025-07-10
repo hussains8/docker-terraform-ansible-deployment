@@ -30,13 +30,14 @@ This project automates the **containerization**, **infrastructure provisioning**
 - **Version Control**: Git + GitHub
 
 ---
-## Business Outcomes
+## **📈 Business Outcomes**
 - Reduced manual provisioning effort by over 70%
 - Accelerated service rollouts and environment setup
 - Improved deployment consistency and repeatability
 - Ensured secure and audited infrastructure practices
 
 ---
-## Maintainer
+## **🛠️ Maintainer**
+This project is maintained by:
 - Author: Sadaf Hussain
 - Email: sadaf.official964@gmail.com
